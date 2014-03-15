@@ -1,0 +1,27 @@
+{
+  "name": "advtxt-readline",
+  "version": "0.0.1",
+  "description": "A readline interface to AdvTxt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fardog/advtxt-readline"
+  },
+  "keywords": [
+    "game",
+    "adventure",
+    "advtxt"
+  ],
+  "author": "Nathan Wittstock <code@fardogllc.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fardog/advtxt-readline/issues"
+  },
+  "homepage": "https://github.com/fardog/advtxt-readline",
+  "dependencies": {
+    "i18n-2": "^0.4.6"
+  }
+}
