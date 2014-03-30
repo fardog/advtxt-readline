@@ -33,6 +33,14 @@ var AdvTxt = new advtxtreadline(advtxt);
 Run that with `node` and you'll be prompted for a username. After that initial 
 prompt, anything you enter will be sent directly to your AdvTxt instance.
 
+History
+-------
+
+- **v0.0.2**
+    - Update to AdvTxt v0.0.5-style replies.
+- **v0.0.1**
+    - Initial Release
+
 The MIT License (MIT)
 ---------------------
 

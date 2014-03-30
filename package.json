@@ -1,6 +1,6 @@
 {
   "name": "advtxt-readline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A readline interface to AdvTxt.",
   "main": "index.js",
   "scripts": {
